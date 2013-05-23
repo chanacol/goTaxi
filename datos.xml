@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<taxis>
+	<taxi>
+		<id>234567</id>
+		<lat>19.512846900000003</lat>
+		<long>-96.8883705</long>
+		<ocupado>0</ocupado>
+		<activo>0</activo>
+	</taxi>
+</taxis>
